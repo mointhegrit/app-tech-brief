@@ -26,7 +26,7 @@ npm run dev                  # http://localhost:3000
 > inactive you'll get a friendly "workflow may be inactive" error in the UI.
 
 ## Deploy
-- **GitHub repo:** <url>
+- **GitHub repo:** https://github.com/mointhegrit/app-tech-brief
 - **Vercel URL:** <url>
 
 Set `NEXT_PUBLIC_N8N_WEBHOOK_URL` as an env var in Vercel. Push to `main` → Vercel auto-syncs.
